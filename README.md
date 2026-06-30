@@ -8,6 +8,7 @@ BaaaaaaaarkingDog 실전 알고리즘 강의 링크, GitHub 문제집, 코딩테
 - 문제에서 어떤 알고리즘 유형을 떠올려야 하는지 신호를 정리합니다.
 - Java 구현 패턴, 자주 하는 실수, 필수 문제를 우선순위로 제공합니다.
 - BaaaaaaaarkingDog 커리큘럼 기준 10일 압축 학습 계획을 지원합니다.
+- 사용자의 Java/구현/알고리즘 인식 수준을 진단하고 시작 단원을 추천합니다.
 - 사용자 Java 코드를 정답성, 시간복잡도, 반례, 최소 수정 방향 중심으로 리뷰합니다.
 - 암기용 Java 문법과 구현 템플릿을 따로 정리합니다.
 
@@ -17,6 +18,7 @@ BaaaaaaaarkingDog 실전 알고리즘 강의 링크, GitHub 문제집, 코딩테
 SKILL.md
 agents/openai.yaml
 references/roadmap-10-days.md
+references/level-assessment.md
 references/output-contract.md
 references/problem-review-rubric.md
 references/java-syntax-patterns.md
