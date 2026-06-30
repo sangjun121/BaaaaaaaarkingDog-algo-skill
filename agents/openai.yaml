@@ -1,0 +1,4 @@
+interface:
+  display_name: "Algo Lecture Coach"
+  short_description: "Algorithm lecture links to coding-test practice"
+  default_prompt: "Use $algo-lecture-coach to turn this algorithm lecture link into a concise coding-test study plan."
